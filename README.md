@@ -1,10 +1,6 @@
-# Go Docker API Boilerplate
+# Ring Fit Maker API
 
-> Boilerplate for Go based REST API with PostgreSQL, with live reload using CompileDaemon.
-
-Structured based on splitting api routes via services, but not a full multicontainer micro-service build.
-Builds a docker container for PostgreSQL Database.
-Builds a docker container with live reload for Go REST API and links to Postgres container
+Custom Sets builder for Ring Fit Adventure
 
 ## Table of Contents
 
